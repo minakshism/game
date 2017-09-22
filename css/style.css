@@ -1,0 +1,5 @@
+
+#canvas {border:20px solid #693117; margin: 0 auto; display: block;}
+.imgHolder {display:none;}
+.start { position:absolute; top:30%; width:100%; text-align:center; margin: auto; color:#fff;
+font:normal 40px arial; pointer-events: none;}
